@@ -1,0 +1,2 @@
+# local gradle cache - would be created by running `./gradlew`
+.gradle
